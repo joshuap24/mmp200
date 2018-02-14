@@ -1,0 +1,75 @@
+h1{
+text-align: center;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Carter One', cursive;
+padding-left: 1em;
+border: solid;
+color: blue;
+
+}
+
+img{
+max-width: 500px;
+
+}
+
+h2{
+  text-align: center;
+  padding-left: 1em;
+  color: blue;
+  font-family: 'Oleo Script', cursive;
+  font-size: 50px;
+
+}
+
+h3{
+  font-size: 40px;
+border: solid;
+color: blue;
+
+
+}
+ title{
+   text-align: center;
+
+ }
+
+div{
+
+  background:#00BFFF;
+}
+
+p{
+
+  font-size: 30px;
+padding-top: 1em;
+text-align: center;
+padding-bottom: 1em;
+padding-left: 5em;
+padding-right: 5em;
+font-family: 'Merriweather', serif;
+
+
+}
+
+body{
+  text-align: center;
+}
+
+
+ ul{
+   font-size: 30px;
+   text-align: center;
+  list-style-position: inside;
+  padding-right: 2em;
+
+
+ }
+
+
+head{
+  margin-left: 1em;
+  margin-right: 1em;
+
+
+}
